@@ -1,0 +1,25 @@
+.header-img{
+    margin top: 50px;
+    margin bottom: 50px;
+}
+
+.content-top{
+    margin-top: 40px;
+    margin bottom: 40px;
+}
+
+.content-top-text{
+    margin-top: 4px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.content-top-item{
+    width: 20%;
+    float: left;
+    margin-bottom: 40px;
+}
+
+.content-top-image img{
+    width: 100%;
+            }
